@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dajare-evaluate/static/css/main.073c9b0a.css",
+    "main.js": "/dajare-evaluate/static/js/main.92acdbff.js",
+    "static/js/787.ece05d59.chunk.js": "/dajare-evaluate/static/js/787.ece05d59.chunk.js",
+    "service-worker.js": "/dajare-evaluate/service-worker.js",
+    "static/media/logo.svg": "/dajare-evaluate/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/dajare-evaluate/index.html",
+    "main.073c9b0a.css.map": "/dajare-evaluate/static/css/main.073c9b0a.css.map",
+    "main.92acdbff.js.map": "/dajare-evaluate/static/js/main.92acdbff.js.map",
+    "787.ece05d59.chunk.js.map": "/dajare-evaluate/static/js/787.ece05d59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.92acdbff.js"
+  ]
+}
